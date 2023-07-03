@@ -13,6 +13,8 @@
 
  
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,mssql,mysql,pandas,postgresql,python,scikit_learn seaborn,flutter&perline=3)](https://skillicons.dev)
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,aws,docker,git,linux,mssql,mysql,pandas,postgresql,python,scikit_learn seaborn)](https://skillicons.dev)
 
 <!--
