@@ -1,6 +1,6 @@
 ![1](https://github.com/berkin12/berkin12/assets/117379942/eeb45aae-ce7a-4992-9a9d-24c3ad607b2b)
 
-#### Hi there 👋
+# Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=berkin12)
 
@@ -11,10 +11,9 @@
 - 📝 I regularly write on https://medium.com/@berkinbahar11
 
 
- 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,mssql,mysql,pandas,postgresql,python,scikit_learn seaborn,flutter&perline=3)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,mssql,mysql,pandas,postgresql,python,scikit_learn seaborn,)](https://skillicons.dev)
+# Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,sql,mssql,mysql,postgresql,py,)](https://skillicons.dev)
 
 <!--
 **berkin12/berkin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,mssql,mysql,pandas,postgresql,python,scikit_learn seaborn,flutter&perline=3)](https://skillicons.dev)
