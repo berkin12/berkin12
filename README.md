@@ -13,7 +13,7 @@
 
 
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,sql,mssql,mysql,postgresql,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,mysql,postgresql,py,)](https://skillicons.dev)
 
 <!--
 **berkin12/berkin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
