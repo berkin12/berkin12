@@ -1,4 +1,7 @@
+![1](https://github.com/berkin12/berkin12/assets/117379942/eeb45aae-ce7a-4992-9a9d-24c3ad607b2b)
+
 ### Hi there 👋
+
 
 <!--
 **berkin12/berkin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
