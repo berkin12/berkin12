@@ -1,8 +1,19 @@
 ![1](https://github.com/berkin12/berkin12/assets/117379942/eeb45aae-ce7a-4992-9a9d-24c3ad607b2b)
 
-### Hi there 👋
+#### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=berkin12)
+
+- 🔭 I’m a passionate Data Scientist 
+- 🌱 I’m currently learning AWS Cloud Data Engineering
+- 💬 Ask me about anything about Data Science and Data Engineering
+- 📫 How to reach me: berkinbahar11@gmail.com
+-                     +905300502483
+- 📝 I regularly write on https://medium.com/@berkinbahar11
 
 
+
+[![Languages and Tools:](https://skills.thijs.gg/icons?i=aws docker git linux mssql mysql pandas postgresql python scikit_learn seaborn,figma&theme=light)](https://skills.thijs.gg)               
 <!--
 **berkin12/berkin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
