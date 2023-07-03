@@ -8,12 +8,13 @@
 - 🌱 I’m currently learning AWS Cloud Data Engineering
 - 💬 Ask me about anything about Data Science and Data Engineering
 - 📫 How to reach me: berkinbahar11@gmail.com
--                     +905300502483
 - 📝 I regularly write on https://medium.com/@berkinbahar11
 
 
+ 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,mssql,mysql,pandas,postgresql,python,scikit_learn seaborn,flutter&perline=3)](https://skillicons.dev)
 
-[![Languages and Tools:](https://skills.thijs.gg/icons?i=aws docker git linux mssql mysql pandas postgresql python scikit_learn seaborn,figma&theme=light)](https://skills.thijs.gg)               
+
 <!--
 **berkin12/berkin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
