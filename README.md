@@ -1,6 +1,6 @@
-![1](https://github.com/berkin12/berkin12/assets/117379942/eeb45aae-ce7a-4992-9a9d-24c3ad607b2b)
 
-# Hi there 👋
+# Hi ![1](https://github.com/berkinbahar/berkin12/assets/117379942/d3eb4d11-99e7-456b-9941-75030a8f956e)
+there 👋
 
 ![](https://komarev.com/ghpvc/?username=berkinbahar)
 
